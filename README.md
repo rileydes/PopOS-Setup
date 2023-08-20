@@ -82,6 +82,10 @@ This project can set up some powerful features, such as:
 2. [*mc_server_builder*](mc_server_builder): The link to download the latest version of the server
 	must be manually updated for every minecraft release.
 
+<h2 align="center">Next Features to be added</h2>
+1. Custom **TMUX** setup: Based off (Dreams of Code) setup https://youtu.be/DzNmUNvnB04
+2. Customized Update Script
+
 <h2 align="center">Licensing</h2>
 
 This repository, and all contributions to this repository, are under the [MIT License](LICENSE).
